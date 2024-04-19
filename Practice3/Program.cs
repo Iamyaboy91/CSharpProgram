@@ -1,6 +1,10 @@
-﻿bool flag = true;
-if (flag)
+﻿// Code sample 2
+int value;
+value = 5;
+if (true)
 {
-    int value = 10;
+    value += 6;
     Console.WriteLine($"Inside the code block: {value}");
 }
+
+Console.WriteLine($"Outside the code block: {value}");

@@ -1,0 +1,15 @@
+/Users/YABOY/projects/C# Program/Practice3/bin/Debug/net8.0/Practice3
+/Users/YABOY/projects/C# Program/Practice3/bin/Debug/net8.0/Practice3.deps.json
+/Users/YABOY/projects/C# Program/Practice3/bin/Debug/net8.0/Practice3.runtimeconfig.json
+/Users/YABOY/projects/C# Program/Practice3/bin/Debug/net8.0/Practice3.dll
+/Users/YABOY/projects/C# Program/Practice3/bin/Debug/net8.0/Practice3.pdb
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/Practice3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/Practice3.AssemblyInfoInputs.cache
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/Practice3.AssemblyInfo.cs
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/Practice3.csproj.CoreCompileInputs.cache
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/Practice3.sourcelink.json
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/Practice3.dll
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/refint/Practice3.dll
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/Practice3.pdb
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/Practice3.genruntimeconfig.cache
+/Users/YABOY/projects/C# Program/Practice3/obj/Debug/net8.0/ref/Practice3.dll

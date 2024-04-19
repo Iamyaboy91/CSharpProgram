@@ -1,0 +1,15 @@
+/Users/YABOY/projects/C# Program/Practice7/bin/Debug/net8.0/Practice7
+/Users/YABOY/projects/C# Program/Practice7/bin/Debug/net8.0/Practice7.deps.json
+/Users/YABOY/projects/C# Program/Practice7/bin/Debug/net8.0/Practice7.runtimeconfig.json
+/Users/YABOY/projects/C# Program/Practice7/bin/Debug/net8.0/Practice7.dll
+/Users/YABOY/projects/C# Program/Practice7/bin/Debug/net8.0/Practice7.pdb
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/Practice7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/Practice7.AssemblyInfoInputs.cache
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/Practice7.AssemblyInfo.cs
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/Practice7.csproj.CoreCompileInputs.cache
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/Practice7.sourcelink.json
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/Practice7.dll
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/refint/Practice7.dll
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/Practice7.pdb
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/Practice7.genruntimeconfig.cache
+/Users/YABOY/projects/C# Program/Practice7/obj/Debug/net8.0/ref/Practice7.dll
