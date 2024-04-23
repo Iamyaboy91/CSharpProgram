@@ -1,6 +1,6 @@
 ﻿//SKU = Stock Keeping Unit.
 // SKU value format: <product #>-<2-letter color code>-<size code> 
-string sku = "01-MN-L";
+string sku = "01-BL-L";
 
 string[] product = sku.Split('-');
 
