@@ -1,0 +1,15 @@
+/Users/YABOY/projects/C# Program/Practice24/bin/Debug/net8.0/Practice24
+/Users/YABOY/projects/C# Program/Practice24/bin/Debug/net8.0/Practice24.deps.json
+/Users/YABOY/projects/C# Program/Practice24/bin/Debug/net8.0/Practice24.runtimeconfig.json
+/Users/YABOY/projects/C# Program/Practice24/bin/Debug/net8.0/Practice24.dll
+/Users/YABOY/projects/C# Program/Practice24/bin/Debug/net8.0/Practice24.pdb
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/Practice24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/Practice24.AssemblyInfoInputs.cache
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/Practice24.AssemblyInfo.cs
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/Practice24.csproj.CoreCompileInputs.cache
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/Practice24.sourcelink.json
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/Practice24.dll
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/refint/Practice24.dll
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/Practice24.pdb
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/Practice24.genruntimeconfig.cache
+/Users/YABOY/projects/C# Program/Practice24/obj/Debug/net8.0/ref/Practice24.dll

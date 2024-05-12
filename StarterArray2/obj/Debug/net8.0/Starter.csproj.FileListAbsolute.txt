@@ -1,0 +1,15 @@
+/Users/YABOY/projects/C# Program/StarterArray2/bin/Debug/net8.0/Starter
+/Users/YABOY/projects/C# Program/StarterArray2/bin/Debug/net8.0/Starter.deps.json
+/Users/YABOY/projects/C# Program/StarterArray2/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/YABOY/projects/C# Program/StarterArray2/bin/Debug/net8.0/Starter.dll
+/Users/YABOY/projects/C# Program/StarterArray2/bin/Debug/net8.0/Starter.pdb
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/Starter.dll
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/refint/Starter.dll
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/Starter.pdb
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/YABOY/projects/C# Program/StarterArray2/obj/Debug/net8.0/ref/Starter.dll

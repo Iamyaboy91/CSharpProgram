@@ -1,0 +1,15 @@
+/Users/YABOY/projects/C# Program/Practice32/bin/Debug/net8.0/Practice32
+/Users/YABOY/projects/C# Program/Practice32/bin/Debug/net8.0/Practice32.deps.json
+/Users/YABOY/projects/C# Program/Practice32/bin/Debug/net8.0/Practice32.runtimeconfig.json
+/Users/YABOY/projects/C# Program/Practice32/bin/Debug/net8.0/Practice32.dll
+/Users/YABOY/projects/C# Program/Practice32/bin/Debug/net8.0/Practice32.pdb
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/Practice32.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/Practice32.AssemblyInfoInputs.cache
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/Practice32.AssemblyInfo.cs
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/Practice32.csproj.CoreCompileInputs.cache
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/Practice32.sourcelink.json
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/Practice32.dll
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/refint/Practice32.dll
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/Practice32.pdb
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/Practice32.genruntimeconfig.cache
+/Users/YABOY/projects/C# Program/Practice32/obj/Debug/net8.0/ref/Practice32.dll
