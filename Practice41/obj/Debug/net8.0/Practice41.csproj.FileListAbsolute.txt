@@ -1,0 +1,15 @@
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/Practice41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/Practice41.AssemblyInfoInputs.cache
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/Practice41.AssemblyInfo.cs
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/Practice41.csproj.CoreCompileInputs.cache
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/Practice41.sourcelink.json
+/Users/YABOY/projects/C# Program/Practice41/bin/Debug/net8.0/Practice41
+/Users/YABOY/projects/C# Program/Practice41/bin/Debug/net8.0/Practice41.deps.json
+/Users/YABOY/projects/C# Program/Practice41/bin/Debug/net8.0/Practice41.runtimeconfig.json
+/Users/YABOY/projects/C# Program/Practice41/bin/Debug/net8.0/Practice41.dll
+/Users/YABOY/projects/C# Program/Practice41/bin/Debug/net8.0/Practice41.pdb
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/Practice41.dll
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/refint/Practice41.dll
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/Practice41.pdb
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/Practice41.genruntimeconfig.cache
+/Users/YABOY/projects/C# Program/Practice41/obj/Debug/net8.0/ref/Practice41.dll

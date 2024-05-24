@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/YABOY/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/Starter.csproj": {}
+    "/Users/YABOY/projects/C# Program/Challenge/Starter.csproj": {}
   },
   "projects": {
-    "/Users/YABOY/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/Starter.csproj": {
+    "/Users/YABOY/projects/C# Program/Challenge/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/YABOY/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/Starter.csproj",
+        "projectUniqueName": "/Users/YABOY/projects/C# Program/Challenge/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/Users/YABOY/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/Starter.csproj",
+        "projectPath": "/Users/YABOY/projects/C# Program/Challenge/Starter.csproj",
         "packagesPath": "/Users/YABOY/.nuget/packages/",
-        "outputPath": "/Users/YABOY/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/",
+        "outputPath": "/Users/YABOY/projects/C# Program/Challenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/YABOY/.nuget/NuGet/NuGet.Config"
